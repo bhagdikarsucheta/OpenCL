@@ -1,0 +1,1 @@
+cl.exe /EHsc HelloWorld.cpp -I "C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\include" HelloWorld.cpp /link "C:\Program Files (x86)\IntelSWTools\system_studio_2020\OpenCL\sdk\lib\x64\OpenCL.lib"
